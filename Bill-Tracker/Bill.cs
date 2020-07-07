@@ -16,14 +16,10 @@
                      like to instantiate a object. 
         Input: 
             string - name : The name of the bill the user wants to set
-
             double - monthlyCost : The monthly cost of the bill 
-
             double - annualCost : The yearly cost of the bill 
-
             int - daysLeft : the daysLeft before the user will resubscribe 
                              with regards to the bill
-
             int period : The period in which the the bill is setto be renewed.
         */
         public Bill(string name, double monthlyCost, double annualCost, int daysLeft, int period)
@@ -161,4 +157,3 @@
         }
     }
 }
-

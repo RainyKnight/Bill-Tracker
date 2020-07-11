@@ -33,11 +33,13 @@ namespace Bill_Tracker
 
         public static void introduction(string[] name, string[] password)
         {
-            Console.WriteLine("Please Enter your name! ");
+            Console.WriteLine("Welcome to the Bill Tracker!");
+            Console.WriteLine("Please Enter your name: ");
             name[0] = Console.ReadLine();
-            Console.WriteLine(Environment.NewLine + "Hello " + name[0] + "please enter a password");
+            Console.WriteLine(Environment.NewLine + "Hello {0}, please enter a password:", name[0]);
             password[0] = Console.ReadLine();
-            Console.WriteLine(Environment.NewLine + "Thank you for the input we are getting everything started for you");
+            Console.WriteLine(Environment.NewLine + "Thank you for the input. We are getting everything started for you.");
+            //Console.WriteLine(Environment.NewLine + "If at any time you would like to stop, just type \"0\"");
         }
     }
 }

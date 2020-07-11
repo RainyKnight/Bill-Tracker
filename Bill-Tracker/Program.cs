@@ -26,9 +26,6 @@ namespace Bill_Tracker
                 input = Console.ReadLine();
                 Console.WriteLine("Ok bye " + name[0] + " ");
             }
-
-
-
         }
 
         public static void introduction(string[] name, string[] password)
@@ -36,9 +33,9 @@ namespace Bill_Tracker
             Console.WriteLine("Welcome to the Bill Tracker!");
             Console.WriteLine("Please Enter your name: ");
             name[0] = Console.ReadLine();
-            Console.WriteLine(Environment.NewLine + "Hello {0}, please enter a password:", name[0]);
+            Console.WriteLine("\nHello {0}, please enter a password:", name[0]);
             password[0] = Console.ReadLine();
-            Console.WriteLine(Environment.NewLine + "Thank you for the input. We are getting everything started for you.");
+            Console.WriteLine("\nThank you for the input. We are getting everything started for you.");
             //Console.WriteLine(Environment.NewLine + "If at any time you would like to stop, just type \"0\"");
         }
     }

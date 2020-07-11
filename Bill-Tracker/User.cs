@@ -9,7 +9,7 @@ namespace Bill_Tracker
     {
         private string name;
         private string password;
-        private Bill[] Bill;
+        private Bill[] billList;
         private int receipt = 0;
 
         /*
@@ -41,7 +41,7 @@ namespace Bill_Tracker
         public int addBill(Bill personalBill)
         {
             receipt++;
-            Bill[receipt] = personalBill;
+            billList[receipt] = personalBill;
             return receipt;
         }
 
@@ -57,7 +57,7 @@ namespace Bill_Tracker
         */
         public void removeBill(int receipt)
         {
-            Bill[receipt] = null;
+            billList[receipt] = null;
         }
 
         /*

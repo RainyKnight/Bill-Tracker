@@ -22,7 +22,7 @@ namespace Bill_Tracker
             while (input != "No")
             {
                 Console.WriteLine("Would you like to exit? ");
-                Console.WriteLine("if yes click 0 or write No ");
+                Console.WriteLine("if yes write \"No\" ");
                 input = Console.ReadLine();
                 Console.WriteLine("Ok bye " + name[0] + " ");
             }

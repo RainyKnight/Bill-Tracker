@@ -1,0 +1,13 @@
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\bin\Debug\netcoreapp3.1\Bill-Tracker.exe
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\bin\Debug\netcoreapp3.1\Bill-Tracker.deps.json
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\bin\Debug\netcoreapp3.1\Bill-Tracker.runtimeconfig.json
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\bin\Debug\netcoreapp3.1\Bill-Tracker.runtimeconfig.dev.json
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\bin\Debug\netcoreapp3.1\Bill-Tracker.dll
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\bin\Debug\netcoreapp3.1\Bill-Tracker.pdb
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.csprojAssemblyReference.cache
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.AssemblyInfoInputs.cache
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.AssemblyInfo.cs
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.csproj.CoreCompileInputs.cache
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.dll
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.pdb
+C:\Users\profe\OneDrive\Desktop\Projects\C#\Bill-Tracker\Bill-Tracker\obj\Debug\netcoreapp3.1\Bill-Tracker.genruntimeconfig.cache

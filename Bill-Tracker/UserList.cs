@@ -43,7 +43,5 @@ namespace Bill_Tracker
         {
             userList[receipt] = null;
         }
-
-
     }
 }
